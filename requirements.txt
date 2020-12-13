@@ -1,3 +1,7 @@
+TensorFlow >= 2.0.0
+git+https://github.com/faustomorales/keras-ocr.git
+keras-ocr
+sklearn
 aiofiles==0.6.0
 click==7.1.2
 fastapi==0.61.1
