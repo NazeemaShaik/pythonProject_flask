@@ -1,7 +1,6 @@
 from fastapi import FastAPI, Request, File, UploadFile, BackgroundTasks
 from fastapi.templating import Jinja2Templates
 import shutil
-import ocr
 import os
 import executable
 import uuid
