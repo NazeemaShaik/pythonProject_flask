@@ -8,5 +8,6 @@ pip install -r requirements.txt
 ```
 
 ## Starting a local server
-```uvicorn server:app --reload
+```
+uvicorn server:app --reload
 ```
