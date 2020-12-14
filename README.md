@@ -9,5 +9,6 @@ pip install -r requirements.txt
 
 ## Starting a local server
 ```
+after installing the dependencies from rrequirments.txt type the below command in command prompt
 uvicorn server:app --reload
 ```
